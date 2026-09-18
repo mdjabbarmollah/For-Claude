@@ -1,7 +1,7 @@
 const Cardsdesign = ({sendingprops}) => {
   return (
     
-    <div className="bg-white border border rounded-2xl shadow-2xl border-[#F1F5F9] felx justify-between p-2.5">
+    <div className="bg-white border border rounded-2xl shadow-2xl border-[#F1F5F9] flex justify-between p-2.5">
 
       <div className="flex justify-between items-center mb-4 ">
       

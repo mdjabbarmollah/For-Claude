@@ -1,5 +1,5 @@
 const Daisycard = ({sendingprops2}) => {
-  const { title } = sendingprops2;
+  const {title} = sendingprops2;
   return (
    <div className="card bg-base-100 w-96 shadow-sm">
   <div className="card-body">
@@ -7,7 +7,7 @@ const Daisycard = ({sendingprops2}) => {
     <p></p>
     <div className="card-actions justify-end">
           <button className="btn btn-primary">
-            Show Details</button>
+           Read more</button>
     </div>
   </div>
 </div>
